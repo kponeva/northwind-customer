@@ -40,4 +40,4 @@ Here I'd like to investigate further situation in Nortwhind that oriented to the
 - Which product category that purchased by customers the most? 
 - Does customer's purchase amount and delivery process days has a significant correlation to the company's profit?
 - What are best selling products by quantities amount that ordered by the customers?
-- Who is the top employess or salesperson who made revenue the most based in the number of clients they have?
+- Who is the top employees or salesperson who made revenue the most based in the number of clients they have?
