@@ -1,6 +1,4 @@
-# northwind-customer
-
-## DATA UNDERSTANDING
+# Northwind Customer Analysis
 
 ## **Brief Background**
 
