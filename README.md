@@ -4,7 +4,7 @@
 
 In this project, I use Northwind SQL dataset to analyse the data where the customers as my key analysis. This database describes a company that sells specialty foods wholesale to retail outlets worldwide which is a fictious database for a consumer products company.
 
-Data will be explored that will reveal business related questions and each question will be answered using Hypothesis Testing. Throughout this process, valuable knowledge will be gained and based on the results of the tests, conclusions and recommendations will be offered.
+In this analysis, I formulated problems and developed descriptive questions to reveal hidden insights and new information that can help stakeholders to make business decisions, i.e: profit gains and optimise customer satisfaction. Throughout the process of analysis, all insights are validated using hypothesis testing and presented in clear data visualisation. 
 
 ## **Database Information**
 
